@@ -26,6 +26,16 @@ A professional, fully functional asynchronous Telegram bot designed for selling 
 *   **Smart Content Delivery:** The bot delivers private links to materials (e.g., Yandex/Google Drive) after a successful purchase.
 *   **Async Webhook Server:** Built-in `aiohttp` server to listen for payment status callbacks from payment providers.
 
+### 📸Скриншоты / Screenshots
+
+<img width="435" height="523" alt="image" src="https://github.com/user-attachments/assets/b1092e38-9abe-407b-9ac9-bf990935764b" />
+
+<img width="429" height="614" alt="image" src="https://github.com/user-attachments/assets/37aa2048-e6d5-4fe8-bb14-0fe64abdf95e" />
+
+<img width="260" height="149" alt="image" src="https://github.com/user-attachments/assets/d0967e3a-fe4b-4609-8055-2584a73ab4bd" />
+
+<img width="436" height="636" alt="image" src="https://github.com/user-attachments/assets/1e46bf79-6c4b-4cd1-b89d-56783aed376e" />
+
 ### 🛠️ Tech Stack
 *   **Language:** Python 3.14
 *   **Framework:** Aiogram 3 (Fully asynchronous)
@@ -132,10 +142,3 @@ pip install -r requirements.txt
 
 python main.py
 
-### 📸Скриншоты / Screenshots
-
-<img width="435" height="523" alt="image" src="https://github.com/user-attachments/assets/b1092e38-9abe-407b-9ac9-bf990935764b" />
-<img width="429" height="614" alt="image" src="https://github.com/user-attachments/assets/37aa2048-e6d5-4fe8-bb14-0fe64abdf95e" />
-<img width="260" height="149" alt="image" src="https://github.com/user-attachments/assets/d0967e3a-fe4b-4609-8055-2584a73ab4bd" />
-
-<img width="436" height="636" alt="image" src="https://github.com/user-attachments/assets/1e46bf79-6c4b-4cd1-b89d-56783aed376e" />
