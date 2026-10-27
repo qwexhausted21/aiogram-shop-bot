@@ -101,7 +101,7 @@ python main.py
 Интеграции: aiosend (CryptoBot API)
 
 📂 Архитектура
-
+```
 ├── main.py                 # Точка входа (polling + webhook сервер)
 ├── app/
 │   ├── config.py           # Конфигурация окружения
@@ -117,6 +117,7 @@ python main.py
 │       ├── crypto.py       # Обработчики CryptoBot
 │       └── manual.py       # Обработчики ручного СБП
 └── .env.example            # Шаблон переменных окружения
+```
 
 ⚙️ Быстрый старт
 1. Склонируйте репозиторий.
