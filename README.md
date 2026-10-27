@@ -139,7 +139,3 @@ python main.py
 <img width="260" height="149" alt="image" src="https://github.com/user-attachments/assets/d0967e3a-fe4b-4609-8055-2584a73ab4bd" />
 
 <img width="436" height="636" alt="image" src="https://github.com/user-attachments/assets/1e46bf79-6c4b-4cd1-b89d-56783aed376e" />
-
-
-python main.py
-
