@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Telegram E-Commerce Bot
+# 🤖 aiogram-shop-bot
 
 **🌐 Choose language / Выберите язык:**
 [🇺🇸 English](#english) • [🇷🇺 Русский](#russian)
